@@ -1,0 +1,77 @@
+p {
+	font-family: serif, Verdana, "Times New Roman";
+	color: #301934;
+	text-align: justify; 
+	margin-top: 20px;
+	margin-bottom: 30px;
+	margin-right: 300px;
+}
+body {
+	background-color:#d9cfff;
+	font-size:20px;
+	margin-top: 90px;
+	margin-bottom: 90px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+/* Add a background color to the top navigation */
+.topnav {
+  background-color: #781663;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #4d083d;
+  color: white;
+}
+img {
+	border-color: #54172c; 
+	border-width: medium; 
+	border-style: solid;
+	margin-right: 1%;
+}
+
+ul {
+	font-size: 18px;
+	color: purple;
+}
+#arcane {
+	font-size:70px;
+	color:#926F34; 
+}
+h1 {
+	font-size:40px;
+	color:#00315D;
+}
+h2 {
+	color: #571B5C;
+}
+h3 {
+	color:
+}
+.rightside	{ /*So images stay on the right side of the screen*/ 
+	float: right;
+	margin-left: 2%;
+}
+#arrow {
+	margin: 0%;
+	border-style: none;
+}
+.line {
+	height: 1px;
+	border-top: solid;
+	border-color: #926F34;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
